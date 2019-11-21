@@ -44,7 +44,6 @@ local.properties
 *.class
 
 # Java Package Files #
-*.jar
 *.war
 *.ear
 ############
